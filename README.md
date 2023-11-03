@@ -2,7 +2,6 @@
 
 - 📚 I’m currently studying on Etec Joaquim Ferreira do Amaral
 - 📫 How to reach me: julyohidalgo0@gmail.com
-- 🔗 Visit my gist: https://gist.github.com/Julyo-Hidalgo/
 
 <div>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyo-hidalgo&hide_progress=false" />
