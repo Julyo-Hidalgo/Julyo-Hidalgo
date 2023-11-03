@@ -4,8 +4,10 @@
 - 📫 This is my e-mail: julyohidalgo0@gmail.com
 
 <div>
-  <img width="50%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyo-hidalgo&hide_progress=false&theme=radical" />
+  <img width="40%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyo-hidalgo&hide_progress=false&theme=radical" />
+</div>
 
+<div>
   <a href="https://gist.github.com/Julyo-Hidalgo/e43ba56dbeb8e07ae40b3409514e3ac1">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/gist?id=e43ba56dbeb8e07ae40b3409514e3ac1&theme=radical" />
   </a>
