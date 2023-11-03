@@ -2,10 +2,10 @@
 
 - 📚 I’m currently studying on Etec Joaquim Ferreira do Amaral
 - 📫 How to reach me: julyohidalgo0@gmail.com
-- 🔗 Visit my gist:
+- 🔗 Visit my gist: https://gist.github.com/Julyo-Hidalgo/
 
-<div style="display:flex; justify-content:center;"> 
-  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api?username=julyo-hidalgo&show_icons=true&theme=radical" />
+<div>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=julyo-hidalgo&show_icons=true&theme=radical" />
 </div>
 <!--
 **Julyo-Hidalgo/Julyo-Hidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
