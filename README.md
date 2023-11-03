@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Julyo
 
 - 📚 I’m currently studying on Etec Joaquim Ferreira do Amaral
-- 📫 How to reach me: julyohidalgo0@gmail.com
+- 📫 This is my e-mail: julyohidalgo0@gmail.com
 
 <div>
   <img width="50%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyo-hidalgo&hide_progress=false&theme=radical" />
