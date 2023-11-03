@@ -4,9 +4,9 @@
 - 📫 How to reach me: julyohidalgo0@gmail.com
 
 <div>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyo-hidalgo&hide_progress=false" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyo-hidalgo&hide_progress=false" />
 
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/gist?id=e43ba56dbeb8e07ae40b3409514e3ac1" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/gist?id=e43ba56dbeb8e07ae40b3409514e3ac1" />
 </div>
 <!--
 **Julyo-Hidalgo/Julyo-Hidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
