@@ -2,8 +2,6 @@
 
 - 📚 I’m currently studying on Etec Joaquim Ferreira do Amaral
 - 📫 How to reach me: julyohidalgo0@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun facts: I play chess and I love CLI.
 
 <!--
 **Julyo-Hidalgo/Julyo-Hidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
