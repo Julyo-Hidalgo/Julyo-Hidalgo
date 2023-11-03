@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Julyo
 
-- 🔭 I’m currently studying on Etec Joaquim Ferreira do Amaral
+- 📚 I’m currently studying on Etec Joaquim Ferreira do Amaral
 - 📫 How to reach me: julyohidalgo0@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: I play chess and I love CLI.
