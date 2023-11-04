@@ -54,7 +54,7 @@
 <br>
 <div>
 	<ul>
-		<h3>What I'm interested in learning:</h3>
+		<h3>What I'm currently learning:</h3>
 		<li>Functional Programming Paradigm</li>
 		<li>Java Networking</li>
 		<li>AWS services</li>
