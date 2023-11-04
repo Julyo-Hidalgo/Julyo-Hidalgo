@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Julyo
-
-- 📚 I’m currently studying on Etec Joaquim Ferreira do Amaral
+- 📚 I’m currently studying System Development on Etec Joaquim Ferreira do Amaral
+- ♟️ I'm a Chess player
+- 🐧 I'm a Linux user
 - 📫 This is my e-mail: julyohidalgo0@gmail.com
+
+<br>
 
 <div>
 	<figcaption>
@@ -37,12 +40,33 @@
 		<caption>Pyhton</caption>
 	<figcation>
 </div>
-
+<br>
+<div>
+	<ul>
+		<h3>Paradigms that I know:</h3>
+		<li>Structured Programming</li>
+		<li>OOP (Object Oriented Programming)</li>
+		<br>
+		<h3>Design Pattern that I use:</h3>
+		<li>MVC (Model View Controller)</li>
+	</ul>
+</div>
+<br>
+<div>
+	<ul>
+		<h3>What I'm interested in learning:</h3>
+		<li>Functional Programming Paradigm</li>
+		<li>Java Networking</li>
+		<li>AWS services</li>
+	</ul>
+</div>
+<br>
 <div>
 	<a href="https://gist.github.com/Julyo-Hidalgo/e43ba56dbeb8e07ae40b3409514e3ac1">
 		<img width="40%" src="https://github-readme-stats.vercel.app/api/gist?id=e43ba56dbeb8e07ae40b3409514e3ac1&theme=radical" />
 	</a>
 </div>
+
 <!--
 **Julyo-Hidalgo/Julyo-Hidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
