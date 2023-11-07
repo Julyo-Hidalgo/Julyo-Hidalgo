@@ -11,11 +11,11 @@
 		<img width="6%" src="https://icongr.am/devicon/java-original.svg?size=10&color=currentColor">
   		<caption>Java</caption>
 	</figcaption>
- 	<figcaption>
+ 	<!--<figcaption>
 		<img width="6%" src="https://icongr.am/devicon/csharp-original.svg?size=75&color=currentColor">
 		<caption>C sharp</caption>
  	</figcaption>
-  	<figcaption>
+  	<figcaption>-->
 		<img width="6%" src="https://icongr.am/devicon/html5-original.svg?size=75&color=currentColor">
 	 	<caption>HTML 5</caption>
   	</figcaption>
