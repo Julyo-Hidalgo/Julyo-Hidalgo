@@ -16,7 +16,7 @@
 		<caption>C sharp</caption>
  	</figcaption>
 	<figcaption>
-        	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" />
+        	<img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" />
           	<caption>Xamarin</caption>
 	<figcation>
   	<figcaption>
