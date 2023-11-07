@@ -15,6 +15,10 @@
 		<img width="6%" src="https://icongr.am/devicon/csharp-original.svg?size=75&color=currentColor">
 		<caption>C sharp</caption>
  	</figcaption>
+	<figcaption>
+        	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" />
+          	<caption>Xamarin</caption>
+	<figcation>
   	<figcaption>
 		<img width="6%" src="https://icongr.am/devicon/html5-original.svg?size=75&color=currentColor">
 	 	<caption>HTML 5</caption>
