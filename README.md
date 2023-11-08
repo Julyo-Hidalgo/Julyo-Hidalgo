@@ -1,12 +1,14 @@
 <div>
+	🇺🇸
 	<h3>Hi there 👋 I'm Julyo</h3>
 	<ul>
-		<li> 📚 I’m currently studying System Development on Etec Joaquim Ferreira do Amaral</li>
+		<li>📚 I’m currently studying System Development on Etec Joaquim Ferreira do Amaral</li>
 		<li>♟️ I'm a Chess player</li>
 		<li>🐧 I'm a Linux user</li>
 		<li>📫 This is my e-mail: julyohidalgo0@gmail.com</li>
 	</ul>
 	<br>
+	🇧🇷
 	<h3>Olá 👋 eu sou Julyo</h3>
 	<ul>
 		<li> 📚 Eu estou cursando Desenvolvimento de Sistemas na Etec Joaquim Ferreira do Amaral</li>
