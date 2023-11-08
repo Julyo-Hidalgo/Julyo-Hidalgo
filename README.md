@@ -32,7 +32,7 @@
  	</figcaption>
 	<figcaption>
         	<img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" />
-          	<caption>Xamarin</caption>
+          	<caption>Xamarin.Forms</caption>
 	<figcation>
   	<figcaption>
 		<img width="5%" src="https://icongr.am/devicon/html5-original.svg?size=75&color=currentColor">
