@@ -14,7 +14,7 @@
 		<li> 📚 Eu estou cursando Desenvolvimento de Sistemas na Etec Joaquim Ferreira do Amaral</li>
 		<li>♟️ Eu sou um jogador de xadrez</li>
 		<li>🐧 Eu sou um usuário de Linux</li>
-		<li>📫 Esse meu e-mail: julyohidalgo0@gmail.com</li>
+		<li>📫 Esse é meu e-mail: julyohidalgo0@gmail.com</li>
 	</ul>
  </div>
 
