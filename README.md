@@ -59,19 +59,21 @@
 </div>
 <br>
 <div>
+	<h3>Paradigms that I know:</h3>
 	<ul>
-		<h3>Paradigms that I know:</h3>
 		<li>Structured Programming</li>
 		<li>OOP (Object Oriented Programming)</li>
-		<br>
-		<h3>Design Pattern that I use:</h3>
+	</ul>
+	<br>
+	<h3>Design Pattern that I use:</h3>
+	<ul>
 		<li>MVC (Model View Controller)</li>
 	</ul>
 </div>
 <br>
 <div>
+	<h3>What I'm currently learning:</h3>
 	<ul>
-		<h3>What I'm currently learning:</h3>
 		<li>Functional Programming Paradigm</li>
 		<li>Java Networking</li>
 		<li>AWS services</li>
