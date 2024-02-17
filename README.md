@@ -72,15 +72,6 @@
 </div>
 <br>
 <div>
-	<h3>What I'm currently learning:</h3>
-	<ul>
-		<li>Functional Programming Paradigm</li>
-		<li>Java Networking</li>
-		<li>AWS services</li>
-	</ul>
-</div>
-<br>
-<div>
 	<a href="https://gist.github.com/Julyo-Hidalgo/e43ba56dbeb8e07ae40b3409514e3ac1">
 		<img width="40%" src="https://github-readme-stats.vercel.app/api/gist?id=e43ba56dbeb8e07ae40b3409514e3ac1&theme=radical" />
 	</a>
