@@ -18,6 +18,7 @@
 				</li>
 			</ul>
 		</li>
+		<br>
 		<li>📫 This is my e-mail: julyohidalgo@outlook.com</li>
 	</ul>
  </div>
