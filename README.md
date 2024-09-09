@@ -1,23 +1,27 @@
 <div>
-	🇺🇸
 	<h3>Hi there 👋 I'm Julyo</h3>
 	<ul>
-		<li>♟️ I'm a Chess player</li>
-		<li>🐧 I'm a Linux user</li>
+		<li>♟️ I'm a Chess player
+			<ul>
+				<li>This is my username on Lichess:(https://lichess.org/@/julyo10)</li>
+			</ul>
+		</li>
+		<br>
+		<li> I'm a Linux user
+			<ul>
+				<li>
+					<div>
+						<a href="https://gist.github.com/Julyo-Hidalgo/e43ba56dbeb8e07ae40b3409514e3ac1">
+							<img width="40%" src="https://github-readme-stats.vercel.app/api/gist?id=e43ba56dbeb8e07ae40b3409514e3ac1&theme=radical" />
+						</a>
+					</div>
+				</li>
+			</ul>
+		</li>
 		<li>📫 This is my e-mail: julyohidalgo@outlook.com</li>
 	</ul>
-	<br>
-	🇧🇷
-	<h3>Olá 👋 eu sou Julyo</h3>
-	<ul>
-		<li>♟️ Eu sou um jogador de xadrez</li>
-		<li>🐧 Eu sou um usuário de Linux</li>
-		<li>📫 Esse é meu e-mail: julyohidalgo@outlook.com</li>
-	</ul>
  </div>
-
 <br>
-
 <div>
 	<h3>Skills</h3>
 	<figcaption>
@@ -58,51 +62,3 @@
 	<figcation>
 </div>
 <br>
-<div>
-	<h3>Paradigms that I know:</h3>
-	<ul>
-		<li>Structured Programming</li>
-		<li>OOP (Object Oriented Programming)</li>
-	</ul>
-	<br>
-	<h3>Design Pattern that I use:</h3>
-	<ul>
-		<li>MVC (Model View Controller)</li>
-	</ul>
-</div>
-<br>
-<div>
-	<a href="https://gist.github.com/Julyo-Hidalgo/e43ba56dbeb8e07ae40b3409514e3ac1">
-		<img width="40%" src="https://github-readme-stats.vercel.app/api/gist?id=e43ba56dbeb8e07ae40b3409514e3ac1&theme=radical" />
-	</a>
-</div>
-
-<!--
-**Julyo-Hidalgo/Julyo-Hidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-**Julyo-Hidalgo/Julyo-Hidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying on Etec Joaquim Ferreira do Amaral
-- 🌱 I’m currently learning functional programming, AI and AM, clean code
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: julyohidalgo0@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play chess and I love CLI.
--->
