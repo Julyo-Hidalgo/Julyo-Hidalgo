@@ -9,7 +9,7 @@
 		<br>
 		<li>I'm a Linux user
 			<ul>
-				<li>
+				<li> This is a useful script: 
 					<div>
 						<a href="https://gist.github.com/Julyo-Hidalgo/e43ba56dbeb8e07ae40b3409514e3ac1">
 							<img width="40%" src="https://github-readme-stats.vercel.app/api/gist?id=e43ba56dbeb8e07ae40b3409514e3ac1&theme=radical" />
